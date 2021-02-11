@@ -82,10 +82,6 @@ img {
   align-items: center;
 }
 
-.mt-10 {
-  margin-top: 10px;
-}
-
 .grid1 > div.anuncio {
   grid-column: 1;
   grid-row: 2 / 5;
